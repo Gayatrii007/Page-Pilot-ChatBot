@@ -21,7 +21,7 @@ Coming soon
 Manual Installation
 
 Clone this repository:
-Copygit clone https://github.com/priyanshusoni3850/PagePilot.git
+Copygit clone https://github.com/Gayatrii007/Page-Pilot-ChatBot.git
 
 Open Chrome and navigate to chrome://extensions/
 Enable "Developer mode" in the top right corner
