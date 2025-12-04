@@ -72,8 +72,3 @@ Create your feature branch (git checkout -b feature/amazing-feature)
 Commit your changes (git commit -m 'Add some amazing feature')
 Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
-
-
-📞 Contact
-Priyanshu Soni - GitHub
-Project Link: https://github.com/priyanshusoni3850/PagePilot
